@@ -4,7 +4,7 @@ This project showcases end-to-end analysis of  retail sales data using MySQL. Th
  Tools Used
 
 - **MySQL** (via MySQL Workbench)
-- (Upcoming: Excel, Python, Power BI)
+
 
 ##  Dataset Description
 
