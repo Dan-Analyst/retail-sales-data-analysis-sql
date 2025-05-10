@@ -72,3 +72,12 @@ CREATE TABLE retail_sales_raw (
     discount_applied VARCHAR(10)
 );
 
+
+## Dataset
+
+The dataset used for this analysis is publicly available at:
+https://www.kaggle.com/datasets/deedan44/www-kaggle-comdatasetsdeedan44/data?select=RETAIL_SALES_DATASET.csv
+
+
+
+
